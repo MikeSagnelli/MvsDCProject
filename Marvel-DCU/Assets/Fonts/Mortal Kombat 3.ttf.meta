@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5980f15b07ab7fb43bd73f1b42fd6b3c
+timeCreated: 1488661368
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mortal Kombat 3
+  fontNames:
+  - Mortal Kombat 3
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
